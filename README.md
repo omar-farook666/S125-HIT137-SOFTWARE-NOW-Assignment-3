@@ -1,6 +1,10 @@
-# CSE-346 final project (Star Hopper)
-It is a CSE-346 sessional project for Department of Computer Science and Engineering. Please visit the branches for the progress of the code. You can fin the `.exe` file 
-from the releases.
-Please follow the instructions. The asses are provided with the source code.
-This is a very basic pygame project. Please do inform me if you find bug(s).
-Peaace.
+## How to Run the Desktop App
+
+To run the game, simply double-click the `game.exe` file located in the root directory of this branch.
+
+> **Note:** You can also find the `game.exe` file on your Desktop once you've copied or extracted the contents there.
+
+---
+
+*Make sure all necessary resource files are in the same folder as `game.exe` for the app to work properly.*
+*Make sure to got to Dewsktop-app branch for desktop app*
